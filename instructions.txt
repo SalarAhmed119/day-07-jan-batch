@@ -1,0 +1,5 @@
+ctrl+n -> folder
+touch -> file
+. -> extension
+
+topic -> child parent relationship in css
